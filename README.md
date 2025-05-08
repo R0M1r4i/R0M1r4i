@@ -15,7 +15,7 @@ I'm Omar Peralta, a Software Engineering student passionate about Web Developmen
 
     Exploring Tailwind CSS and Flowbite for modern, responsive designs.
 
-    Postman for efficient API testing and debugging.
+    Using Postman for efficient API testing and debugging.
 
 👯 I’m looking to collaborate on:
 
