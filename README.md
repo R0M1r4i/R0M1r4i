@@ -1,6 +1,8 @@
 Hi there 👋
 
-I'm Omar Peralta, a Software Engineering student passionate about Web Development. I’m in the final stages of my degree at Universidad Tecnológica del Perú (UTP). I love solving problems through programming and have gained practical experience working on a variety of web development projects.
+I'm Omar Peralta, a Software Engineering student passionate about Web Development.
+I’m in the final stages of my degree at Universidad Tecnológica del Perú (UTP).
+I love solving problems through programming and have gained practical experience working on a variety of web development projects.
 🔭 Projects I've worked on:
 
     ColorcitoScan: A web system for a manga website, developed with Laravel 10, MySQL, Bootstrap, and Ajax.
@@ -47,4 +49,5 @@ I'm Omar Peralta, a Software Engineering student passionate about Web Developmen
 
 ⚡ Fun fact:
 
-    I love tackling complex challenges and turning them into simple, elegant solutions. If I'm not coding, you’ll probably find me exploring the latest tech trends!
+    I love tackling complex challenges and turning them into simple, elegant solutions.
+    If I'm not coding, you’ll probably find me exploring the latest tech trends!
