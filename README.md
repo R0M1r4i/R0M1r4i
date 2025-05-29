@@ -155,19 +155,6 @@ const omar = {
 
 ---
 
-## 📚 Education & Languages
-
-<div align="center">
-
-| 🎓 **Education** | 🌐 **Languages** |
-|:---:|:---:|
-| **Universidad Tecnológica del Perú** | **Español** - Native |
-| Software Engineering (2021-2025) | **English** - Intermediate |
-| **ICPNA** | Certified by ICPNA (2020-2021) |
-| English Institute (2020-2021) | |
-
-</div>
-
 ---
 
 ## 🌱 Currently Learning
