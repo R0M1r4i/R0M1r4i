@@ -23,7 +23,7 @@ const omar = {
     currentlyLearning: "Laravel Advanced & API Development",
     languages: {
         spanish: "Native",
-        english: "Intermediate (ICPNA 2020-2021)"
+        english: "Intermediate"
     },
     technologies: {
         frontend: ["Bootstrap", "Tailwind CSS", "Flowbite", "Ajax"],
@@ -31,10 +31,6 @@ const omar = {
         database: ["MySQL"],
         tools: ["GitHub", "Git"],
         mobile: "WhatsApp API Integration"
-    },
-    education: {
-        university: "Universidad Tecnológica del Perú (UTP)",
-        languages: "Instituto Cultural Peruano Norte Americano (ICPNA)"
     },
     passion: "Programming & Problem Solving",
     experience: "Collaborative projects with different methodologies",
