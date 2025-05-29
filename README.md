@@ -16,29 +16,20 @@
 
 ```javascript
 const omar = {
-    name: "Omar Peralta Medrano",
+    name: "Omar Peralta",
     pronouns: "He/Him",
-    title: "Software Engineering Student",
-    period: "2021-2025",
+    age: "Final year student",
     currentlyLearning: "Laravel Advanced & API Development",
-    languages: {
-        spanish: "Native",
-        english: "Intermediate (ICPNA 2020-2021)"
-    },
+    languages: ["PHP", "JavaScript", "MySQL"],
     technologies: {
         frontend: ["Bootstrap", "Tailwind CSS", "Flowbite", "Ajax"],
         backend: ["Laravel", "PHP"],
         database: ["MySQL"],
-        tools: ["GitHub", "Git"],
-        mobile: "WhatsApp API Integration"
+        tools: ["Postman", "Git", "GitHub"]
     },
-    education: {
-        university: "Universidad Tecnológica del Perú (UTP)",
-        languages: "Instituto Cultural Peruano Norte Americano (ICPNA)"
-    },
-    passion: "Programming & Problem Solving",
-    experience: "Collaborative projects with different methodologies",
-    funFact: "I specialize in community-focused development projects! 🏘️"
+    university: "Universidad Tecnológica del Perú (UTP)",
+    passion: "Web Development & Problem Solving",
+    funFact: "I love turning complex challenges into elegant solutions! 🎯"
 };
 ```
 
@@ -53,9 +44,7 @@ const omar = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Flowbite](https://img.shields.io/badge/Flowbite-1E40AF?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
@@ -63,31 +52,22 @@ const omar = {
 
 ## 🎯 Featured Projects
 
-### 🎨 **ColorcitoScan** - *Community Project*
+### 🎨 **ColorcitoScan**
 > **Manga Website Management System**
 - **Tech Stack:** Laravel 10, MySQL, Bootstrap, Ajax
 - **Features:** Complete web system for manga content management
-- **Impact:** Serving manga community with modern web technologies
 - **Status:** ✅ Production Ready
 
-### 🏪 **Sistema de Control de Feriantes** - *Municipal System*
-> **Street Vendors Census & Control Platform**
+### 🏪 **Feriantes Control System**
+> **Street Vendors Management Platform**
 - **Tech Stack:** PHP, MySQL, Bootstrap
-- **Features:** Census system with unique certificate generation and expiration validation
-- **Client:** Municipalidad Distrital de Chilca
-- **Impact:** Digitizing municipal vendor management
+- **Features:** Monitoring system with unique certificate generation
 - **Status:** ✅ Deployed
 
-### 🎓 **Academia Municipal de Chilca** - *Educational System*
-> **Comprehensive School Management Platform**
-- **Tech Stack:** Laravel, MySQL, Bootstrap, WhatsApp API
-- **Features:** 
-  - Student registration system
-  - QR code attendance tracking
-  - Parental control intranet
-  - Automated WhatsApp reports to parents
-- **Client:** Municipality of Chilca
-- **Impact:** Modernizing educational administration
+### 🎓 **Academia Municipal de Chilca**
+> **Educational Management System**
+- **Tech Stack:** Laravel, MySQL, Bootstrap
+- **Features:** Student registration, QR attendance, WhatsApp notifications
 - **Status:** ✅ Live System
 
 ---
@@ -105,29 +85,13 @@ const omar = {
 
 ---
 
-## 📚 Education & Languages
-
-<div align="center">
-
-| 🎓 **Education** | 🌐 **Languages** |
-|:---:|:---:|
-| **Universidad Tecnológica del Perú** | **Español** - Native |
-| Software Engineering (2021-2025) | **English** - Intermediate |
-| **ICPNA** | Certified by ICPNA (2020-2021) |
-| English Institute (2020-2021) | |
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🚀 Advanced **Laravel** techniques and architecture patterns
-- 🔧 **API Development** best practices and optimization  
+- 🔧 **API Development** best practices and optimization
 - 🎨 Modern UI/UX with **Tailwind CSS** and **Flowbite**
 - 📊 **MySQL** performance optimization and complex query design
-- 📱 **WhatsApp API** integration for automated notifications
-- 🏛️ **Municipal and Community Systems** development
+- 🧪 API testing and debugging with **Postman**
 
 ---
 
@@ -137,11 +101,9 @@ I'm always interested in collaborating on:
 
 - 🌟 **Open-source Laravel projects**
 - 🚀 **API development** initiatives
-- 💻 **Community-focused web applications**
-- 🏛️ **Municipal and educational systems**
+- 💻 **Web Development** with modern frameworks
 - 🗄️ **Database optimization** projects
-- 🎨 **Modern UI/UX** with Tailwind and Flowbite
-- 📱 **WhatsApp API integrations**
+- 🎨 **Tailwind CSS** and modern design implementations
 
 ---
 
@@ -151,7 +113,6 @@ I'm always interested in collaborating on:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarperalta2k19@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://omarpdev.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51926595097)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0M1r4i)
 
 </div>
@@ -160,7 +121,7 @@ I'm always interested in collaborating on:
 
 <div align="center">
   
-### 🎯 *"Specialized in community-focused development - Creating digital solutions that make a real impact on people's lives!"*
+### 🎯 *"Turning complex problems into simple, elegant solutions - one line of code at a time!"*
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
