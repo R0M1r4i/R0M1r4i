@@ -55,38 +55,7 @@ const omar = {
 
 </div>
 
----
 
-## 🎯 Featured Projects
-
-### 🎨 **ColorcitoScan** - *Community Project*
-> **Manga Website Management System**
-- **Tech Stack:** Laravel 10, MySQL, Bootstrap, Ajax
-- **Features:** Complete web system for manga content management
-- **Impact:** Serving manga community with modern web technologies
-- **Status:** ✅ Production Ready
-
-### 🏪 **Sistema de Control de Feriantes** - *Municipal System*
-> **Street Vendors Census & Control Platform**
-- **Tech Stack:** PHP, MySQL, Bootstrap
-- **Features:** Census system with unique certificate generation and expiration validation
-- **Client:** Municipalidad Distrital de Chilca
-- **Impact:** Digitizing municipal vendor management
-- **Status:** ✅ Deployed
-
-### 🎓 **Academia Municipal de Chilca** - *Educational System*
-> **Comprehensive School Management Platform**
-- **Tech Stack:** Laravel, MySQL, Bootstrap, WhatsApp API
-- **Features:** 
-  - Student registration system
-  - QR code attendance tracking
-  - Parental control intranet
-  - Automated WhatsApp reports to parents
-- **Client:** Municipality of Chilca
-- **Impact:** Modernizing educational administration
-- **Status:** ✅ Live System
-
----
 
 ## 🏆 My Skills
 
